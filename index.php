@@ -1,0 +1,17 @@
+<?php
+include('header.php');
+include('navbar.php');
+include('./pages/home/home_hero.php');
+include('./pages/home/home_video.php');
+include('./pages/home/home_sixlogos.php');
+include('./pages/home/home_form.php');
+include('./pages/home/home_content_1.php');
+include('./pages/home/home_content_2.php');
+include('./pages/home/home_sixlogos_2.php');
+include('./pages/home/home_video_2.php');
+include('./pages/home/home_content_3.php');
+include('./pages/home/home_testimonial.php');
+include('./pages/home/home_twobox.php');
+include('./pages/home/home_last.php');
+include('footer.php')
+?>
